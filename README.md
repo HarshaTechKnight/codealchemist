@@ -73,7 +73,12 @@ Feel free to reach out for collaborations, freelance projects, or just to connec
 
 ## 🖥️ Live Demo
 
-> [Add your portfolio website link here once deployed!]
+> https://codealchemist-ebon.vercel.app/
+
+---
+
+## Screesnhot:
+![image](https://github.com/user-attachments/assets/60543cef-8a5e-482c-a1b6-382db5f49e28)
 
 ---
 
@@ -90,7 +95,5 @@ This project is open source and available under the [MIT License](LICENSE).
 *Feel free to personalize this further and add your live site link, GitHub, or social profiles as needed.*
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/10597563/e5e88308-95ee-4bad-a7a9-f38c21a583ae/SriHarsha_Java_Full_Stack_CV.pdf
+https://drive.google.com/file/d/1dV0meg90NZ2jUcnEJJ-MCfRaZCpd72lm/view?usp=drive_link
 
----
-Answer from Perplexity: pplx.ai/share
