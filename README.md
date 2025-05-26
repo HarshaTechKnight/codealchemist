@@ -77,11 +77,6 @@ Feel free to reach out for collaborations, freelance projects, or just to connec
 
 ---
 
-## Screesnhot:
-![image](https://github.com/user-attachments/assets/60543cef-8a5e-482c-a1b6-382db5f49e28)
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
