@@ -2255,7 +2255,7 @@ textarea.form-control {
 
 /* Responsive Adjustments */
 @media (max-width: 991.98px) {
-    .section-title {
+    .contact-section .section-title {
         font-size: 2rem;
     }
 
@@ -2269,11 +2269,11 @@ textarea.form-control {
         padding: 60px 0;
     }
 
-    .section-title {
+    .contact-section .section-title {
         font-size: 1.8rem;
     }
 
-    .section-tagline {
+    .contact-section .section-tagline {
         font-size: 1.1rem;
     }
 
