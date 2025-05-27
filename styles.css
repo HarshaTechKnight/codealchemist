@@ -2277,6 +2277,10 @@ textarea.form-control {
         font-size: 1.1rem;
     }
 
+    .contact-container {
+        grid-template-columns: 1fr;
+    }
+
     .contact-form, .info-card {
         padding: 25px;
     }
